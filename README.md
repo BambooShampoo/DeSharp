@@ -1,5 +1,7 @@
 # DeSharp Vancouver!
 
+Site: https://re-sharp.vercel.app/
+
 Striving for a safer Vancouver, we wanted to create a solution that will help tackle the ongoing opioid crisis in Vancouver. A key part of this is the leftover needles discarded on the ground, which pose a significant danger to anybody around them. This is why we came together and created DeSharp: a tool to help significantly decrease the number of needles lying around.
 
 DeSharp is a web-based app meant for government or non-profit use. The public facing page allows any user who has come across a needle to easily report it to our staff. They take a photo of the needle, and submit a report along with their name and a comment, and it uses the default HTML geolocation library to pull latitude and longitude to submit as well. Both the public and admin side now see these reports as pins on the map, and the government/non-profit staff can dispatch teams to collect these sharps.
